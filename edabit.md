@@ -163,17 +163,6 @@ function divisible(num) {
 }
 ```
 
-## [44.Recursion: Length of a String](https://edabit.com/challenge/4MSbtYFBiRtxHEkY8)
-
-**Answer**
-
-
-
-```js
-    function length(str) {
-  return str.length
-}
-```
 
 
 ## [45.Divides Evenly](https://edabit.com/challenge/JfB9mWmbwYHbupxCB)
